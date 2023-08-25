@@ -1,0 +1,74 @@
+body {
+  margin: 0 auto;
+  text-align: center;
+}
+form {
+  font-size: 10px;
+}
+button {
+  font-size: 10px;
+  margin-left: 130px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+h1,
+p {
+  color: grey;
+  text-align: left;
+}
+h2,
+h5 {
+  text-align: right;
+  color: blue;
+  margin-right: 20px;
+}
+h2 {
+  font-size: 60px;
+  margin-bottom: 0;
+}
+h5 {
+  margin-right: 70px;
+  font-size: 15px;
+}
+.units {
+  font-size: 15px;
+  position: relative;
+  top: -34px;
+}
+.page {
+  border: 1px solid gray;
+  border-radius: 20px;
+  width: 600px;
+  margin: 0 auto;
+}
+.index {
+  font-size: 10px;
+}
+.image {
+  display: block;
+  margin: 0 auto;
+}
+.card-text {
+  font-size: 15px;
+  text-align: center;
+}
+.city {
+  position: relative;
+  top: 10px;
+  left: 200px;
+}
+.currentCity {
+  margin-left: 10px;
+}
+.week {
+  margin: 0 auto;
+  display: block;
+  margin-left: 10px;
+}
+.card {
+  border-radius: 40px;
+  border-color: gray;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
